@@ -1,0 +1,22 @@
+.contact{
+	color: #EE4036;
+}
+li {
+	list-style: none;
+}
+.color{
+
+	color: #3D58A6;
+}
+.info{
+	color: #3D58A6;
+	font-weight: bold;
+}
+.info1{
+	color: #000000;
+	font-weight: bold;
+}
+.cube{
+	width: 262px;
+	height: 98px;
+}

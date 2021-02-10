@@ -1,0 +1,17 @@
+.main{
+	color: #EE4036;
+
+}
+li{
+	list-style: none;
+}
+.none{
+
+	font-size: 40px;
+	color: blue;
+	
+}
+.banner{
+	width: 1170px;
+	height: 460px;
+}
